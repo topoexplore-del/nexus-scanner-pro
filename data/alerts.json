@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-03-27 08:19:33 (Hora Colombia)",
+  "checked_at": "2026-03-27 11:43:35 (Hora Colombia)",
   "confirmed": 0,
   "signals": [],
   "watchlist": [
@@ -17,12 +17,6 @@
     },
     {
       "ticker": "CTRA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VLO",
       "failed": [
         "Radar"
       ]
