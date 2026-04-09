@@ -1,69 +1,8 @@
 {
-  "checked_at": "2026-04-08 16:16:42 (Hora Colombia)",
-  "confirmed": 3,
-  "signals": [
-    {
-      "ticker": "AZN",
-      "composite": 81,
-      "prob": 95,
-      "zones": {
-        "entry": 197.8,
-        "tp1": 206.83,
-        "tp2": 212.86,
-        "sl": 196.79
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "FCX",
-      "composite": 61,
-      "prob": 95,
-      "zones": {
-        "entry": 59.85,
-        "tp1": 62.58,
-        "tp2": 64.41,
-        "sl": 59.54
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "FCX",
-      "composite": 61,
-      "prob": 95,
-      "zones": {
-        "entry": 59.85,
-        "tp1": 62.58,
-        "tp2": 64.41,
-        "sl": 59.54
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "checked_at": "2026-04-08 23:08:14 (Hora Colombia)",
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
-    {
-      "ticker": "CF",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
     {
       "ticker": "HUBB",
       "failed": [
@@ -71,73 +10,7 @@
       ]
     },
     {
-      "ticker": "ROST",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "TER",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CTRA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "POWL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "KEYS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PNC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "OKE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VLO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NUE",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SQM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BSAC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "TFC",
+      "ticker": "0005.HK",
       "failed": [
         "Analysis"
       ]
