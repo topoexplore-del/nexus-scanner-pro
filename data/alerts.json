@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-13 08:42:50 (Hora Colombia)",
+  "checked_at": "2026-04-13 10:19:31 (Hora Colombia)",
   "confirmed": 3,
   "signals": [
     {
@@ -108,6 +108,12 @@
       ]
     },
     {
+      "ticker": "CTRA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "POWL",
       "failed": [
         "Radar"
@@ -133,12 +139,6 @@
     },
     {
       "ticker": "OKE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ALGN",
       "failed": [
         "Radar"
       ]
