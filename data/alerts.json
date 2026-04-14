@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-13 16:10:16 (Hora Colombia)",
+  "checked_at": "2026-04-13 21:35:55 (Hora Colombia)",
   "confirmed": 3,
   "signals": [
     {
@@ -39,7 +39,7 @@
     },
     {
       "ticker": "FMX",
-      "composite": 61,
+      "composite": 56,
       "prob": 95,
       "zones": {
         "entry": 114.86,
