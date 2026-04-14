@@ -1,54 +1,21 @@
 {
-  "checked_at": "2026-04-13 21:35:55 (Hora Colombia)",
-  "confirmed": 3,
+  "checked_at": "2026-04-14 08:10:26 (Hora Colombia)",
+  "confirmed": 1,
   "signals": [
     {
-      "ticker": "TSM",
-      "composite": 85,
+      "ticker": "JCI",
+      "composite": 61,
       "prob": 95,
       "zones": {
-        "entry": 365.04,
-        "tp1": 381.72,
-        "tp2": 392.84,
-        "sl": 363.19
+        "entry": 140.68,
+        "tp1": 147.1,
+        "tp2": 151.39,
+        "sl": 139.96
       },
       "periods": [
         "1 Semana",
         "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "composite": 74,
-      "prob": 95,
-      "zones": {
-        "entry": 145.14,
-        "tp1": 151.77,
-        "tp2": 156.19,
-        "sl": 144.4
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "FMX",
-      "composite": 56,
-      "prob": 95,
-      "zones": {
-        "entry": 114.86,
-        "tp1": 120.11,
-        "tp2": 123.61,
-        "sl": 114.28
-      },
-      "periods": [
-        "1 Mes"
+        "3 Meses"
       ]
     }
   ],
@@ -66,13 +33,25 @@
       ]
     },
     {
-      "ticker": "GSK",
+      "ticker": "CTSH",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BWMX",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "GOOGL",
+      "ticker": "AMX",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "AOS",
       "failed": [
         "Radar"
       ]
@@ -87,12 +66,6 @@
       "ticker": "HUBB",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "ROST",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -120,27 +93,21 @@
       ]
     },
     {
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "GRMN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "STLD",
+      "ticker": "GE",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DEO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "OKE",
-      "failed": [
-        "Radar"
+        "Analysis"
       ]
     }
   ]
