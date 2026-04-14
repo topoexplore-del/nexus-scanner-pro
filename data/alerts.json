@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-14 08:10:26 (Hora Colombia)",
+  "checked_at": "2026-04-14 09:57:26 (Hora Colombia)",
   "confirmed": 1,
   "signals": [
     {
@@ -21,13 +21,13 @@
   ],
   "watchlist": [
     {
-      "ticker": "INCY",
+      "ticker": "MU",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MU",
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
