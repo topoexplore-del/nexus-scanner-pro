@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-17 07:52:55 (Hora Colombia)",
+  "checked_at": "2026-04-17 09:57:01 (Hora Colombia)",
   "confirmed": 2,
   "signals": [
     {
@@ -49,12 +49,6 @@
       ]
     },
     {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "YMM",
       "failed": [
         "Radar"
@@ -67,9 +61,21 @@
       ]
     },
     {
+      "ticker": "AMAT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "HUBB",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "AA",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -103,18 +109,6 @@
       ]
     },
     {
-      "ticker": "STLD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AA",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "SPGI",
       "failed": [
         "Radar"
@@ -122,6 +116,12 @@
     },
     {
       "ticker": "ALGN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "STLD",
       "failed": [
         "Radar"
       ]
