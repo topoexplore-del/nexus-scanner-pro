@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-17 12:37:01 (Hora Colombia)",
+  "checked_at": "2026-04-17 13:34:39 (Hora Colombia)",
   "confirmed": 2,
   "signals": [
     {
@@ -73,12 +73,6 @@
       ]
     },
     {
-      "ticker": "AA",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "DECK",
       "failed": [
         "Radar"
@@ -106,6 +100,12 @@
       "ticker": "META",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "AA",
+      "failed": [
+        "Analysis"
       ]
     },
     {
