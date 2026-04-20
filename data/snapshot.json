@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-04-20T12:58:23.713398Z",
+  "built_at": "2026-04-20T13:04:43.254634Z",
   "groups": {
     "🎯 Watchlist Core": [
       {
@@ -7409,7 +7409,7 @@
         "state": "WAIT",
         "abc": "B",
         "rsi": 62.5,
-        "adx": 19.0,
+        "adx": 19.1,
         "ext": 3.4,
         "rel_vol": 1.14,
         "daily": 3.14,
