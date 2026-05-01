@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-01 12:46:42 (Hora Colombia)",
+  "checked_at": "2026-05-01 13:50:37 (Hora Colombia)",
   "confirmed": 4,
   "signals": [
     {
@@ -88,15 +88,21 @@
       ]
     },
     {
+      "ticker": "DLO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "MU",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "DLO",
+      "ticker": "AMAT",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -125,12 +131,6 @@
     },
     {
       "ticker": "LRCX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMAT",
       "failed": [
         "Radar"
       ]
