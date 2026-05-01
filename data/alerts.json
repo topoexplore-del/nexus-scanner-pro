@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-01 13:50:37 (Hora Colombia)",
+  "checked_at": "2026-05-01 14:58:52 (Hora Colombia)",
   "confirmed": 4,
   "signals": [
     {
@@ -100,12 +100,6 @@
       ]
     },
     {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "NXPI",
       "failed": [
         "Radar"
@@ -131,6 +125,12 @@
     },
     {
       "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMAT",
       "failed": [
         "Radar"
       ]
