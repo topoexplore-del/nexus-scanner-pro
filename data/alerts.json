@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-07 13:00:52 (Hora Colombia)",
+  "checked_at": "2026-05-07 14:48:29 (Hora Colombia)",
   "confirmed": 4,
   "signals": [
     {
@@ -74,15 +74,15 @@
       ]
     },
     {
-      "ticker": "QCOM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "FUTU",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -140,6 +140,12 @@
       ]
     },
     {
+      "ticker": "STLD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "LRCX",
       "failed": [
         "Radar"
@@ -149,12 +155,6 @@
       "ticker": "TER",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "KO",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
