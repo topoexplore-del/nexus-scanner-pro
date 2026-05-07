@@ -1,16 +1,47 @@
 {
-  "checked_at": "2026-05-06 16:53:03 (Hora Colombia)",
-  "confirmed": 5,
+  "checked_at": "2026-05-07 11:09:05 (Hora Colombia)",
+  "confirmed": 4,
   "signals": [
     {
-      "ticker": "TSM",
-      "composite": 85,
+      "ticker": "HWM",
+      "composite": 74,
       "prob": 95,
       "zones": {
-        "entry": 388.49,
-        "tp1": 406.24,
-        "tp2": 418.07,
-        "sl": 386.52
+        "entry": 252.58,
+        "tp1": 264.12,
+        "tp2": 271.82,
+        "sl": 251.3
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "EMR",
+      "composite": 66,
+      "prob": 95,
+      "zones": {
+        "entry": 145.77,
+        "tp1": 152.43,
+        "tp2": 156.87,
+        "sl": 145.03
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "IEX",
+      "composite": 66,
+      "prob": 95,
+      "zones": {
+        "entry": 214.92,
+        "tp1": 224.74,
+        "tp2": 231.28,
+        "sl": 213.83
       },
       "periods": [
         "1 Mes",
@@ -19,63 +50,14 @@
       ]
     },
     {
-      "ticker": "ROK",
-      "composite": 76,
-      "prob": 95,
-      "zones": {
-        "entry": 429.39,
-        "tp1": 449.01,
-        "tp2": 462.09,
-        "sl": 427.21
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "ROK",
-      "composite": 76,
-      "prob": 95,
-      "zones": {
-        "entry": 429.39,
-        "tp1": 449.01,
-        "tp2": 462.09,
-        "sl": 427.21
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "CTRA",
-      "composite": 75,
-      "prob": 95,
-      "zones": {
-        "entry": 35.1,
-        "tp1": 36.7,
-        "tp2": 37.77,
-        "sl": 34.92
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
       "ticker": "SQM",
       "composite": 56,
       "prob": 95,
       "zones": {
-        "entry": 91.25,
-        "tp1": 95.42,
-        "tp2": 98.2,
-        "sl": 90.79
+        "entry": 92.06,
+        "tp1": 96.26,
+        "tp2": 99.07,
+        "sl": 91.59
       },
       "periods": [
         "1 Semana",
@@ -98,9 +80,27 @@
       ]
     },
     {
+      "ticker": "FUTU",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "MU",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -122,57 +122,39 @@
       ]
     },
     {
+      "ticker": "CSCO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "TRGP",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "VICI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "LRCX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "STLD",
+      "ticker": "TER",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "OKE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MO",
+      "ticker": "KO",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HAL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ABEV",
-      "failed": [
-        "Radar"
       ]
     }
   ]
