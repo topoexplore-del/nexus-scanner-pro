@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-08 13:06:48 (Hora Colombia)",
+  "checked_at": "2026-05-08 14:45:24 (Hora Colombia)",
   "confirmed": 5,
   "signals": [
     {
@@ -151,12 +151,6 @@
       ]
     },
     {
-      "ticker": "GWW",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "ROK",
       "failed": [
         "Radar"
@@ -170,6 +164,12 @@
     },
     {
       "ticker": "STLD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
