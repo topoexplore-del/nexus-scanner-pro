@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-05-08T20:43:58.884262Z",
+  "built_at": "2026-05-08T21:43:46.515472Z",
   "groups": {
     "🎯 Watchlist Core": [
       {
@@ -1085,7 +1085,7 @@
         "eps_gr": "Solid",
         "fund": 42.0,
         "sector": "Basic Materials",
-        "mktcap": "$73B",
+        "mktcap": "$71B",
         "target": 17.56,
         "upside": 8.4,
         "proj_conf": "Low",
@@ -8366,7 +8366,7 @@
         "name": "Kinder Morgan, Inc.",
         "close": 31.52,
         "score": 45,
-        "ai": 62.8,
+        "ai": 62.7,
         "state": "WAIT",
         "abc": "C",
         "rsi": 44.7,
