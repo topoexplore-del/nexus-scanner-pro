@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-05-08T21:43:46.515472Z",
+  "built_at": "2026-05-08T22:35:24.754559Z",
   "groups": {
     "🎯 Watchlist Core": [
       {
@@ -1085,7 +1085,7 @@
         "eps_gr": "Solid",
         "fund": 42.0,
         "sector": "Basic Materials",
-        "mktcap": "$71B",
+        "mktcap": "$73B",
         "target": 17.56,
         "upside": 8.4,
         "proj_conf": "Low",
