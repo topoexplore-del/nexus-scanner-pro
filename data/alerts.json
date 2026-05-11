@@ -1,21 +1,22 @@
 {
-  "checked_at": "2026-05-08 16:43:46 (Hora Colombia)",
-  "confirmed": 5,
+  "checked_at": "2026-05-11 11:35:03 (Hora Colombia)",
+  "confirmed": 4,
   "signals": [
     {
-      "ticker": "NVDA",
+      "ticker": "HWM",
       "composite": 80,
       "prob": 95,
       "zones": {
-        "entry": 208.33,
-        "tp1": 217.84,
-        "tp2": 224.19,
-        "sl": 207.27
+        "entry": 266.5,
+        "tp1": 278.68,
+        "tp2": 286.79,
+        "sl": 265.15
       },
       "periods": [
         "1 Semana",
         "1 Mes",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses"
       ]
     },
     {
@@ -23,10 +24,10 @@
       "composite": 69,
       "prob": 95,
       "zones": {
-        "entry": 3.23,
-        "tp1": 3.38,
-        "tp2": 3.48,
-        "sl": 3.21
+        "entry": 3.24,
+        "tp1": 3.39,
+        "tp2": 3.49,
+        "sl": 3.22
       },
       "periods": [
         "1 Semana",
@@ -40,26 +41,10 @@
       "composite": 66,
       "prob": 95,
       "zones": {
-        "entry": 118.11,
-        "tp1": 123.51,
-        "tp2": 127.1,
-        "sl": 117.51
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "IEX",
-      "composite": 66,
-      "prob": 95,
-      "zones": {
-        "entry": 211.65,
-        "tp1": 221.32,
-        "tp2": 227.76,
-        "sl": 210.57
+        "entry": 119.38,
+        "tp1": 124.84,
+        "tp2": 128.47,
+        "sl": 118.78
       },
       "periods": [
         "1 Mes",
@@ -72,10 +57,10 @@
       "composite": 56,
       "prob": 95,
       "zones": {
-        "entry": 90.23,
-        "tp1": 94.35,
-        "tp2": 97.1,
-        "sl": 89.77
+        "entry": 90.02,
+        "tp1": 94.13,
+        "tp2": 96.87,
+        "sl": 89.56
       },
       "periods": [
         "3 Meses",
@@ -91,7 +76,7 @@
       ]
     },
     {
-      "ticker": "QCOM",
+      "ticker": "ACN",
       "failed": [
         "Radar"
       ]
@@ -103,27 +88,27 @@
       ]
     },
     {
-      "ticker": "LLY",
+      "ticker": "QCOM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TRGP",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
       ]
     },
     {
@@ -140,12 +125,6 @@
     },
     {
       "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HWM",
       "failed": [
         "Radar"
       ]
@@ -170,6 +149,12 @@
     },
     {
       "ticker": "STLD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
