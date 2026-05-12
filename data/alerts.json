@@ -1,52 +1,19 @@
 {
-  "checked_at": "2026-05-11 16:44:08 (Hora Colombia)",
-  "confirmed": 4,
+  "checked_at": "2026-05-12 11:21:51 (Hora Colombia)",
+  "confirmed": 2,
   "signals": [
     {
       "ticker": "HWM",
       "composite": 80,
       "prob": 95,
       "zones": {
-        "entry": 266.5,
-        "tp1": 278.68,
-        "tp2": 286.79,
-        "sl": 265.15
+        "entry": 269.48,
+        "tp1": 281.79,
+        "tp2": 289.99,
+        "sl": 268.11
       },
       "periods": [
         "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ABEV",
-      "composite": 69,
-      "prob": 95,
-      "zones": {
-        "entry": 3.24,
-        "tp1": 3.39,
-        "tp2": 3.49,
-        "sl": 3.22
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "FMX",
-      "composite": 66,
-      "prob": 95,
-      "zones": {
-        "entry": 119.38,
-        "tp1": 124.84,
-        "tp2": 128.47,
-        "sl": 118.78
-      },
-      "periods": [
         "1 Mes",
         "3 Meses",
         "6 Meses"
@@ -57,12 +24,13 @@
       "composite": 56,
       "prob": 95,
       "zones": {
-        "entry": 90.02,
-        "tp1": 94.13,
-        "tp2": 96.87,
-        "sl": 89.56
+        "entry": 92.02,
+        "tp1": 96.22,
+        "tp2": 99.03,
+        "sl": 91.55
       },
       "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses"
       ]
@@ -76,13 +44,13 @@
       ]
     },
     {
-      "ticker": "ACN",
+      "ticker": "CF",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MU",
+      "ticker": "BVN",
       "failed": [
         "Radar"
       ]
@@ -94,7 +62,19 @@
       ]
     },
     {
-      "ticker": "NXPI",
+      "ticker": "NEM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MU",
       "failed": [
         "Radar"
       ]
@@ -106,13 +86,19 @@
       ]
     },
     {
-      "ticker": "TRGP",
+      "ticker": "NXPI",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
       "ticker": "VICI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NVDA",
       "failed": [
         "Radar"
       ]
@@ -130,25 +116,7 @@
       ]
     },
     {
-      "ticker": "GWW",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ROK",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ROK",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "STLD",
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
