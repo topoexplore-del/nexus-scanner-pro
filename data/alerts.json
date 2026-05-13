@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-13 13:23:23 (Hora Colombia)",
+  "checked_at": "2026-05-13 15:19:52 (Hora Colombia)",
   "confirmed": 3,
   "signals": [
     {
@@ -93,6 +93,12 @@
       ]
     },
     {
+      "ticker": "VRTX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "NXPI",
       "failed": [
         "Radar"
@@ -130,12 +136,6 @@
     },
     {
       "ticker": "STLD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
