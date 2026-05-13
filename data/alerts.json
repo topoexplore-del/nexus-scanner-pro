@@ -1,36 +1,49 @@
 {
-  "checked_at": "2026-05-12 16:45:56 (Hora Colombia)",
-  "confirmed": 2,
+  "checked_at": "2026-05-13 11:21:40 (Hora Colombia)",
+  "confirmed": 3,
   "signals": [
     {
-      "ticker": "HWM",
-      "composite": 80,
+      "ticker": "PSA",
+      "composite": 81,
       "prob": 95,
       "zones": {
-        "entry": 269.48,
-        "tp1": 281.79,
-        "tp2": 289.99,
-        "sl": 268.11
+        "entry": 306.61,
+        "tp1": 320.62,
+        "tp2": 329.96,
+        "sl": 305.05
       },
       "periods": [
         "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
+        "3 Meses"
       ]
     },
     {
-      "ticker": "SQM",
-      "composite": 56,
+      "ticker": "GWW",
+      "composite": 79,
       "prob": 95,
       "zones": {
-        "entry": 92.02,
-        "tp1": 96.22,
-        "tp2": 99.03,
-        "sl": 91.55
+        "entry": 1219.72,
+        "tp1": 1275.44,
+        "tp2": 1312.59,
+        "sl": 1213.52
       },
       "periods": [
         "1 Semana",
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "composite": 71,
+      "prob": 95,
+      "zones": {
+        "entry": 41.07,
+        "tp1": 42.95,
+        "tp2": 44.2,
+        "sl": 40.87
+      },
+      "periods": [
+        "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
@@ -51,6 +64,12 @@
     },
     {
       "ticker": "BVN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EOG",
       "failed": [
         "Radar"
       ]
@@ -110,19 +129,13 @@
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "STLD",
       "failed": [
         "Radar"
       ]
     },
     {
       "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "OKE",
       "failed": [
         "Radar"
       ]
