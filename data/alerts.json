@@ -1,24 +1,7 @@
 {
-  "checked_at": "2026-05-14 13:11:11 (Hora Colombia)",
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "VRTX",
-      "composite": 85,
-      "prob": 95,
-      "zones": {
-        "entry": 446.26,
-        "tp1": 466.65,
-        "tp2": 480.24,
-        "sl": 444.0
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "checked_at": "2026-05-14 15:05:54 (Hora Colombia)",
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "INCY",
