@@ -1,49 +1,19 @@
 {
-  "checked_at": "2026-05-13 16:51:11 (Hora Colombia)",
-  "confirmed": 3,
+  "checked_at": "2026-05-14 11:16:45 (Hora Colombia)",
+  "confirmed": 1,
   "signals": [
     {
-      "ticker": "PSA",
-      "composite": 81,
+      "ticker": "VRTX",
+      "composite": 85,
       "prob": 95,
       "zones": {
-        "entry": 306.61,
-        "tp1": 320.62,
-        "tp2": 329.96,
-        "sl": 305.05
+        "entry": 446.26,
+        "tp1": 466.65,
+        "tp2": 480.24,
+        "sl": 444.0
       },
       "periods": [
         "1 Semana",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "GWW",
-      "composite": 79,
-      "prob": 95,
-      "zones": {
-        "entry": 1219.72,
-        "tp1": 1275.44,
-        "tp2": 1312.59,
-        "sl": 1213.52
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes"
-      ]
-    },
-    {
-      "ticker": "HAL",
-      "composite": 71,
-      "prob": 95,
-      "zones": {
-        "entry": 41.07,
-        "tp1": 42.95,
-        "tp2": 44.2,
-        "sl": 40.87
-      },
-      "periods": [
-        "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
@@ -64,6 +34,12 @@
     },
     {
       "ticker": "BVN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
@@ -93,7 +69,13 @@
       ]
     },
     {
-      "ticker": "VRTX",
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "YMM",
       "failed": [
         "Radar"
       ]
@@ -105,19 +87,13 @@
       ]
     },
     {
-      "ticker": "NXPI",
+      "ticker": "TRGP",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "VICI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NVDA",
+      "ticker": "HSY",
       "failed": [
         "Radar"
       ]
@@ -130,12 +106,6 @@
     },
     {
       "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "STLD",
       "failed": [
         "Radar"
       ]
