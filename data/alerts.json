@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-14 16:23:59 (Hora Colombia)",
+  "checked_at": "2026-05-15 11:06:01 (Hora Colombia)",
   "confirmed": 0,
   "signals": [],
   "watchlist": [
@@ -10,19 +10,13 @@
       ]
     },
     {
-      "ticker": "CF",
+      "ticker": "NEM",
       "failed": [
         "Radar"
       ]
     },
     {
       "ticker": "BVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "APA",
       "failed": [
         "Radar"
       ]
@@ -40,12 +34,6 @@
       ]
     },
     {
-      "ticker": "NEM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "MU",
       "failed": [
         "Radar"
@@ -58,25 +46,13 @@
       ]
     },
     {
-      "ticker": "YMM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "NXPI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "TRGP",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "HSY",
+      "ticker": "STLD",
       "failed": [
         "Radar"
       ]
@@ -89,6 +65,30 @@
     },
     {
       "ticker": "AMAT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "LEA",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "HAL",
       "failed": [
         "Radar"
       ]
