@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-18 11:49:31 (Hora Colombia)",
+  "checked_at": "2026-05-18 13:30:25 (Hora Colombia)",
   "confirmed": 1,
   "signals": [
     {
@@ -106,9 +106,9 @@
       ]
     },
     {
-      "ticker": "WMB",
+      "ticker": "WCC",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     }
   ]
