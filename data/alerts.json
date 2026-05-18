@@ -1,22 +1,34 @@
 {
-  "checked_at": "2026-05-15 16:44:29 (Hora Colombia)",
-  "confirmed": 0,
-  "signals": [],
+  "checked_at": "2026-05-18 11:49:31 (Hora Colombia)",
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "LRCX",
+      "composite": 80,
+      "prob": 95,
+      "zones": {
+        "entry": 280.45,
+        "tp1": 293.26,
+        "tp2": 301.8,
+        "sl": 279.03
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    }
+  ],
   "watchlist": [
     {
-      "ticker": "INCY",
+      "ticker": "CF",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "NEM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BVN",
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
@@ -28,37 +40,7 @@
       ]
     },
     {
-      "ticker": "QCOM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "MU",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "STLD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "LRCX",
       "failed": [
         "Radar"
       ]
@@ -70,7 +52,31 @@
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TRGP",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NVDA",
       "failed": [
         "Radar"
       ]
@@ -82,7 +88,13 @@
       ]
     },
     {
-      "ticker": "LEA",
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "KO",
       "failed": [
         "Analysis"
       ]
@@ -91,6 +103,12 @@
       "ticker": "HAL",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "WMB",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
