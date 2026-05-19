@@ -1,22 +1,56 @@
 {
-  "checked_at": "2026-05-18 16:43:24 (Hora Colombia)",
-  "confirmed": 1,
+  "checked_at": "2026-05-19 11:54:20 (Hora Colombia)",
+  "confirmed": 3,
   "signals": [
     {
-      "ticker": "LRCX",
-      "composite": 80,
+      "ticker": "APA",
+      "composite": 96,
       "prob": 95,
       "zones": {
-        "entry": 280.45,
-        "tp1": 293.26,
-        "tp2": 301.8,
-        "sl": 279.03
+        "entry": 39.55,
+        "tp1": 41.35,
+        "tp2": 42.56,
+        "sl": 39.35
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "composite": 85,
+      "prob": 95,
+      "zones": {
+        "entry": 390.01,
+        "tp1": 407.83,
+        "tp2": 419.71,
+        "sl": 388.03
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "composite": 71,
+      "prob": 95,
+      "zones": {
+        "entry": 42.14,
+        "tp1": 44.06,
+        "tp2": 45.35,
+        "sl": 41.92
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
@@ -28,30 +62,12 @@
       ]
     },
     {
-      "ticker": "APA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "EOG",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MU",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "NXPI",
       "failed": [
         "Radar"
@@ -61,12 +77,6 @@
       "ticker": "NXPI",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "TRGP",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -76,39 +86,63 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "KO",
+      "ticker": "PBR",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "HAL",
+      "ticker": "ABEV",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "WCC",
+      "ticker": "WMB",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ARM",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "BWA",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "NOW",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MET",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "OXY",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "QRVO",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
