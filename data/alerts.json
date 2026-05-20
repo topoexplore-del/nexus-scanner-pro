@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-05-19 16:55:12 (Hora Colombia)",
-  "confirmed": 3,
+  "checked_at": "2026-05-20 11:53:58 (Hora Colombia)",
+  "confirmed": 2,
   "signals": [
     {
       "ticker": "APA",
       "composite": 96,
       "prob": 95,
       "zones": {
-        "entry": 39.55,
-        "tp1": 41.35,
-        "tp2": 42.56,
-        "sl": 39.35
+        "entry": 40.3,
+        "tp1": 42.14,
+        "tp2": 43.36,
+        "sl": 40.09
       },
       "periods": [
         "1 Semana",
@@ -21,34 +21,16 @@
       ]
     },
     {
-      "ticker": "TSM",
-      "composite": 85,
-      "prob": 95,
-      "zones": {
-        "entry": 390.01,
-        "tp1": 407.83,
-        "tp2": 419.71,
-        "sl": 388.03
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "HAL",
+      "ticker": "KEYS",
       "composite": 71,
       "prob": 95,
       "zones": {
-        "entry": 42.14,
-        "tp1": 44.06,
-        "tp2": 45.35,
-        "sl": 41.92
+        "entry": 338.95,
+        "tp1": 354.43,
+        "tp2": 364.76,
+        "sl": 337.23
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
@@ -63,6 +45,12 @@
     },
     {
       "ticker": "EOG",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TSM",
       "failed": [
         "Radar"
       ]
@@ -86,9 +74,9 @@
       ]
     },
     {
-      "ticker": "PBR",
+      "ticker": "HAL",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -104,13 +92,19 @@
       ]
     },
     {
+      "ticker": "KMI",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "ARM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "BWA",
+      "ticker": "CL",
       "failed": [
         "Analysis"
       ]
@@ -122,12 +116,6 @@
       ]
     },
     {
-      "ticker": "MET",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "WMT",
       "failed": [
         "Analysis"
@@ -135,12 +123,6 @@
     },
     {
       "ticker": "OXY",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "QRVO",
       "failed": [
         "Analysis"
       ]
