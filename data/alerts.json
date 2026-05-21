@@ -1,36 +1,36 @@
 {
-  "checked_at": "2026-05-20 16:19:34 (Hora Colombia)",
+  "checked_at": "2026-05-21 11:42:36 (Hora Colombia)",
   "confirmed": 2,
   "signals": [
     {
-      "ticker": "APA",
-      "composite": 96,
+      "ticker": "NVDA",
+      "composite": 85,
       "prob": 95,
       "zones": {
-        "entry": 40.3,
-        "tp1": 42.14,
-        "tp2": 43.36,
-        "sl": 40.09
+        "entry": 220.12,
+        "tp1": 230.17,
+        "tp2": 236.88,
+        "sl": 219.0
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "composite": 71,
+      "prob": 95,
+      "zones": {
+        "entry": 41.67,
+        "tp1": 43.57,
+        "tp2": 44.84,
+        "sl": 41.45
       },
       "periods": [
         "1 Semana",
         "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "KEYS",
-      "composite": 71,
-      "prob": 95,
-      "zones": {
-        "entry": 338.95,
-        "tp1": 354.43,
-        "tp2": 364.76,
-        "sl": 337.23
-      },
-      "periods": [
         "3 Meses",
         "6 Meses"
       ]
@@ -38,7 +38,25 @@
   ],
   "watchlist": [
     {
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VIST",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
@@ -50,7 +68,7 @@
       ]
     },
     {
-      "ticker": "TSM",
+      "ticker": "AMAT",
       "failed": [
         "Radar"
       ]
@@ -74,7 +92,31 @@
       ]
     },
     {
-      "ticker": "HAL",
+      "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "IFS",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "OKE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "KO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "WCC",
       "failed": [
         "Radar"
       ]
@@ -83,48 +125,6 @@
       "ticker": "ABEV",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "WMB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "KMI",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ARM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CL",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "NOW",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "OXY",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
