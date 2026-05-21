@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-21 11:42:36 (Hora Colombia)",
+  "checked_at": "2026-05-21 13:30:44 (Hora Colombia)",
   "confirmed": 2,
   "signals": [
     {
@@ -68,12 +68,6 @@
       ]
     },
     {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "NXPI",
       "failed": [
         "Radar"
@@ -98,6 +92,12 @@
       ]
     },
     {
+      "ticker": "AMAT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "IFS",
       "failed": [
         "Analysis"
@@ -116,13 +116,13 @@
       ]
     },
     {
-      "ticker": "WCC",
+      "ticker": "ABEV",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ABEV",
+      "ticker": "WCC",
       "failed": [
         "Radar"
       ]
